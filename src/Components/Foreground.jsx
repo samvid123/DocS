@@ -5,7 +5,7 @@ const Foreground = () => {
     const ref = useRef(null);
     const data = [
         {
-            desc: "This is the new description",
+            desc: "Hi Shreyasi",
             filesize: ".9mb",
             close: true,
             tag: { isOpen: true, tagTitle: "Download Now", tagColor: "green" }
